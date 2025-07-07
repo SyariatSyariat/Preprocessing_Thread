@@ -1,6 +1,6 @@
 # Preprocessing_Thread
 ## Background
-Dataset ulasan aplikasi Thread yang telah diperoleh dari hasil Scraping, selanjutnya melalui lima tahap pemrosesan.
+Dataset ulasan aplikasi Thread yang telah diperoleh dari hasil Scraping, selanjutnya melalui lima tahap pemrosesan. Lalu, ada tambahan apabila ingin melakukan reduksi data.
 
 ## Insight
 Beberapa insight yang saya peroleh, diantaranya:
